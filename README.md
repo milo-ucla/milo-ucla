@@ -4,7 +4,7 @@ My name is Milo (he/him) and I am a 3rd year Computer Science major at UCLA! Som
 ### 🔬 In progress 
 I am currently working on an OS project based on the Raspberry Pi 3s architecture. Currently my goal is to create a Kernel / OS from scratch and learn more about ARM / OS design.
 
-### 🌳 I’m currently learning
+### 🌳 I’m currently learning . . .
 In addition to learning more about C and C++ development, I am trying to imporove my back-end Node.js and frontend React skills by improving my personal website, as well as my data science skills working with Pandas.
 
 <!--
