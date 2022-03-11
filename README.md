@@ -4,7 +4,7 @@ My name is Milo (he/him) and I am a 3rd year Computer Science major at UCLA! Som
 ### 🔬 In progress 
 I am currently working on an unreleased project using PyTesseract and CV2.
 
-## Finished Projects:
+#### Finished Projects:
 * MiniRogue - C++ dungeon crawler game
 * Spotify Playlist Manager - scrapes a text file and updates your Spotify account accordingly. Perfect if you have a lot of music on a hard drive and want it all in your Spotify library.
 * BobaBot - A Discord Bot that lets members keep track of how much boba they consume + gives fun Boba-fied inspirational quotes.
