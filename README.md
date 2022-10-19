@@ -1,5 +1,7 @@
 ## Hi there 👋
-My name is Milo (he/him) and I am a 4th year Computer Science major at UCLA! Some of my previous projects include UChat, a chat application designed for college students to collaborate; Google Hangouts Analytics, a command-line tool to parse and analyze Google Takeout chat data; Spotify MusicOrganizer, a script that imports music from your local media files into a Spotify library; and RogueLite, an ASCII dungeon crawler game where you fight monsters and collect treasure!
+My name is Milo (he/him) and I am a 4th year Computer Science major at UCLA!
+
+Some of my previous projects include UChat, a chat application designed for college students to collaborate; Google Hangouts Analytics, a command-line tool to parse and analyze Google Takeout chat data; Spotify MusicOrganizer, a script that imports music from your local media files into a Spotify library; and RogueLite, an ASCII dungeon crawler game wher you fight monsters and collect treasure!
 
 ### 🌳 I’m currently learning . . .
 I am learning more about C and C++ development, and I am also trying to imporove my JavaScript and Python skills.
